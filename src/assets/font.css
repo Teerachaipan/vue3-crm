@@ -1,0 +1,74 @@
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRoundedv3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRoundedv3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRoundedv3.2.1.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Med v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Med v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Med v3.2.1.otf') format('opentype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Bd v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Bd v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Bd v3.2.1.otf') format('opentype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Blk v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Blk v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Blk v3.2.1.otf') format('opentype');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded It v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded It v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded It v3.2.1.otf') format('opentype');
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Med It v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Med It v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Med It v3.2.1.otf') format('opentype');
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Bd It v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Bd It v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Bd It v3.2.1.otf') format('opentype');
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'DB HeaventRounded';
+  src:url('/fonts/DB HeaventRounded Blk It v3.2.1.woff2') format('woff2'),
+      url('/fonts/DB HeaventRounded Blk It v3.2.1.woff') format('woff'),
+      url('/fonts/DB HeaventRounded Blk It v3.2.1.otf') format('opentype');
+  font-style: italic;
+  font-weight: 900;
+}
+
+
